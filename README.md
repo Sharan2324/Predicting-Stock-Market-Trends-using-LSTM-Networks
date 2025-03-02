@@ -13,12 +13,12 @@ Testing Data: 20% of historical stock data
 
 #🔥 Technologies Used
 
-Python
-TensorFlow/Keras (Deep Learning Model)
-pandas & numpy (Data Preprocessing)
-matplotlib & seaborn (Data Visualization)
-yfinance (Fetching Stock Data)
-mcal (Market Calendar for NSE Trading Days)
+Python  
+TensorFlow/Keras (Deep Learning Model)  
+pandas & numpy (Data Preprocessing)  
+matplotlib & seaborn (Data Visualization)  
+yfinance (Fetching Stock Data)  
+mcal (Market Calendar for NSE Trading Days)  
 
 #🚀 Project Workflow
 
